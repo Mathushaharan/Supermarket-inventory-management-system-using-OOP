@@ -1,0 +1,4 @@
+IceCoffee Nestle 1 90 200 0 200
+Fanta(SoftDrink) CocoCola 1 350 300 2 294
+Whisky Jack-Daniels 1 20 6000 2 5880
+RedBull RedBull-GmbH(Australia) 1 100 400 3 388

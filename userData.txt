@@ -1,0 +1,5 @@
+Jhon 11/11/2012 Manager
+Smith 15/12/2013 Cashier
+Justy 14/05/2014 Manager
+SaraJ 07/08/2016 FloorWorker
+MaxWell 1/1/2010 FloorWorker

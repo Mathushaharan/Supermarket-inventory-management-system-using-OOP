@@ -1,0 +1,4 @@
+Yoghurt Newdale 1 50 90 3 87.3
+DiaryMilk(Vanila-Flavor) Ambewela 0 85 199 2 195.02 
+DiaryMilk(Chocolate-Flavor) Ambewela 0 45 200 2 196 
+Cheese Newdale 1 60 150 2 147

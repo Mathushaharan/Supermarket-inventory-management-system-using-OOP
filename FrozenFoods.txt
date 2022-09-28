@@ -1,0 +1,4 @@
+ChickenSausages keels 1 25 299 2 293.02
+FrozenDrumSticks SHEBOYGAN.Co 1 55 345 0 345 
+FriedSalmon KIDDIFISH 1 45 300 2 294
+ChickenNuggets keels 1 56 400 2 392

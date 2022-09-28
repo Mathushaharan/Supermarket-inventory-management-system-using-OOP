@@ -1,0 +1,4 @@
+TomatoSauce Barilla 1 65 299 6 281.06
+White_Sesame BoraFood_pvt(Ltd) 1 40 300 0 300
+Cinnamon RathnaProducers 0 34 350 0 350
+Pepper LankaManufacturers_pvt(Ltd) 0 30 290 0 290

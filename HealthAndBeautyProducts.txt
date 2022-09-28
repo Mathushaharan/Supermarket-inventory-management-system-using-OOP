@@ -1,0 +1,4 @@
+FairnessCream Emami 1 55 200 3 194
+NailPolish FashionCosmetics 0 40 350 2 343
+BabySoap Dove 1 30 250 2 245
+HairOil DreamRon-Lanka 0 40 560 2 548.8

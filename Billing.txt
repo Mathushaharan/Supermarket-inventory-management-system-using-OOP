@@ -1,0 +1,3 @@
+Cashier-Smith Customer-Abdulla Item-Apple
+Cashier-Smith Customer-david Item-Prawn
+Cashier-Smith Customer-Kevin Item-Chicken

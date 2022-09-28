@@ -1,0 +1,4 @@
+Rice Tastic 1 18452 50 0 50
+Dhal Swad 1 12908 60 2 58.8
+Corn GreenGiant 1 11232 80 5 76
+wheat Swad 1 13400 120 2 117.6
